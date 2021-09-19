@@ -1,5 +1,4 @@
 //ANIX Voltage Reading system 
-//http://xanx.webs.com
 //========================================
 //https://www.facebook.com/anixelectronics
 //========================================
